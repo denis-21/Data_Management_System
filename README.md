@@ -2,3 +2,6 @@
 
 This is a java program that handles data of all the students of a class.
 It provides admin privelages which allows adding of new fields or deleting of old fields.
+
+#Exeution
+After compiling all four files, run the Welcome.java file.
